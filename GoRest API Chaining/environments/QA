@@ -1,0 +1,15 @@
+{
+	"id": "38f00210-128c-4fd7-8c3f-1e8e44996dda",
+	"name": "QA",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://gorest.co.in/public/v2/users",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-04-25T03:50:07.524Z",
+	"_postman_exported_using": "Postman/10.13.4"
+}

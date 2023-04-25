@@ -1,0 +1,21 @@
+{
+	"id": "42471fbd-2265-443d-83a8-1d8aaa7b6145",
+	"values": [
+		{
+			"key": "url_global",
+			"value": "http://localhost:3000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Userid_global",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-04-25T03:52:20.300Z",
+	"_postman_exported_using": "Postman/10.13.4"
+}

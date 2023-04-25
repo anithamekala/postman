@@ -157,6 +157,19 @@
 		},
 		{
 			"name": "Delete user",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.environment.unset(\"userId\");\r",
+							"pm.environment.unset(\"userName\");\r",
+							"pm.environment.unset(\"userEmail\");"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
 			"request": {
 				"method": "DELETE",
 				"header": [],
